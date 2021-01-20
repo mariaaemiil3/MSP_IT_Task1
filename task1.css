@@ -119,3 +119,12 @@ form{
 #submitButton:hover{
     background-color: dodgerblue;
 }
+#img{
+        
+    border-radius: 6PX;
+    width: 80PX;
+    line-height: 20px;
+}
+#zz{
+color: white;
+}
